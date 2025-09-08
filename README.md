@@ -12,10 +12,9 @@
 
 - 🧠 CS + AI/ML Student @ Polaris School of Technology  
 - 🔥 Building [**Ibento**](https://ibento.co) – your gateway to all student events  
-- 🎬 Filmmaker & content creator at heart  
-- 💡 Exploring AI influencers, sneaker culture & productivity tools  
-- ✍️ Writing: *The Last Night Thought* – a book on deep thoughts & fear  
-- 🎙️ Podcasting with doers and dreamers  
+- 🎬 Filmmaker & content creator at heart   
+- ✍️ Writing: *The Last Night Thought* - a book on deep thoughts & fear  
+
 
 ---
 
